@@ -1,0 +1,4 @@
+Lapicera,120.5,30
+Cuaderno,350.0,15
+Regla,80.75,50
+test,123.0,6
